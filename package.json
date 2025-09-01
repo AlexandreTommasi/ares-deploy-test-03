@@ -1,0 +1,13 @@
+{
+  "name": "ares-deploy-test-03",
+  "version": "1.0.0",
+  "description": "Auto-generated wrapper for deployment",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "install": "cd backend && npm install",
+    "build": "cd backend && npm run build"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
